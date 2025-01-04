@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+/**
+ *
+ * @author natal
+ */
+public class AC {
+    public void MatikanAC(){
+        System.out.println("AC sudah dimatikan:");
+    }
+    public void HidupkanAC(){
+        System.out.println("AC sudah dihidupkan");
+    }
+    public void DinginkanAC(){
+        System.out.println("AC sedang mendinginkan ruangan:");
+    }
+    public void PanaskanAC(){
+        System.out.println("AC sedang memanaskan ruangan");
+    }
+    
+}
